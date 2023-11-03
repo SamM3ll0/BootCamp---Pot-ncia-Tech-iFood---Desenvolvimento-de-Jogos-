@@ -48,3 +48,7 @@
   
 # HTML Reference - Browser Support
 O "[HTML Reference - Browser Support]([url](https://www.w3schools.com/tags/ref_html_browsersupport.asp))" é uma documentação que descreve como diferentes elementos HTML são suportados em vários navegadores da web, indicando quais navegadores são compatíveis com esses elementos e quais podem ter limitações. É uma referência valiosa para desenvolvedores web garantirem a compatibilidade e uma experiência consistente em diferentes navegadores.
+
+# Aplicações Web
+- São Soluções criadas que possuem internet como meio de comunicação entre Client x Server não sendo necessário sua instalação.
+- Quando instalado temos na realidade um aplicativo emum dispositivo
