@@ -45,3 +45,6 @@
 - É uma organização que desempenha um papel importante na definição e estabelecimento de padrões para a web.
 - Eles criam diretrizes e especificações técnicas que ajudam a garantir que os navegadores e os sites funcionem de maneira consistente e compatível. Esses padrões definem o comportamento e as capacidades dos navegadores, garantindo que os sites sejam acessíveis e funcionem corretamente em diferentes navegadores.
 - O W3C desempenha um papel fundamental na evolução da web e na promoção da interoperabilidade entre os navegadores e os sites.
+  
+# HTML Reference - Browser Support
+O "[HTML Reference - Browser Support]([url](https://www.w3schools.com/tags/ref_html_browsersupport.asp))" é uma documentação que descreve como diferentes elementos HTML são suportados em vários navegadores da web, indicando quais navegadores são compatíveis com esses elementos e quais podem ter limitações. É uma referência valiosa para desenvolvedores web garantirem a compatibilidade e uma experiência consistente em diferentes navegadores.
