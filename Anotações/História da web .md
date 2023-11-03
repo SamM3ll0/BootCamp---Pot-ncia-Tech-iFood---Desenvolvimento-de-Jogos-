@@ -32,3 +32,8 @@
 - Marc Andreessen: Co-autor do navegador Mosaic, que ajudou a popularizar a web.
 - Bill Gates: Co-fundador da Microsoft, uma das maiores empresas de tecnologia do mundo.
 - Steve Jobs: Co-fundador da Apple, conhecido por seus produtos inovadores, como o iPhone e o Macintosh.
+
+# O que são Client
+- Clients (Clientes): São como "consumidores" na internet. Eles são dispositivos, como computadores, smartphones ou tablets, que acessam a internet para obter informações, serviços e recursos. Os clientes podem solicitar páginas da web, enviar e-mails, fazer downloads de arquivos e executar várias tarefas online. Em resumo, os clientes consomem as informações disponíveis na internet.
+- Servers (Servidores): São como "fornecedores" na internet. Eles são computadores ou sistemas especializados que armazenam e disponibilizam informações, serviços ou recursos para os clientes. Quando um cliente solicita algo, como uma página da web, um servidor fornece essa informação. Os servidores desempenham um papel fundamental na entrega de conteúdo e serviços pela internet.
+- Caches: São como "memórias temporárias" usadas para armazenar informações frequentemente acessadas. Quando um cliente solicita informações, como uma página da web, os servidores podem armazenar uma cópia dessa informação em um cache no computador do cliente. Isso evita ter que buscar ou receber a mesma informação repetidas vezes pela internet. O uso de caches ajuda a acelerar o carregamento de páginas da web e a reduzir a carga nos servidores, tornando a experiência mais rápida e eficiente para os clientes.
